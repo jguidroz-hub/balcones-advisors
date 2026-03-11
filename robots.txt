@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://balconesadvisors.com/sitemap.xml
